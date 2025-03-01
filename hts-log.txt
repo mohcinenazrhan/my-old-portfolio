@@ -1,0 +1,82 @@
+HTTrack3.48-22+htsswf+htsjava launched on Thu, 27 Feb 2017 11:19:49 at http://localhost/mnazportfolio/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://localhost/mnazportfolio/ -O1 "C:\My Web Sites\mnazportfolio" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+
+
+Information, Warnings and Errors reported for this mirror:
+
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+
+	such as username/password authentication for websites mirrored in this project
+
+	do not share these files/folders if you want these information to remain private
+
+
+
+11:23:25	Error: 	"Not Found" (404) at link localhost/mnazportfolio/twitter.com (from localhost/mnazportfolio/)
+
+11:23:25	Error: 	"Not Found" (404) at link localhost/mnazportfolio/wp-content/themes/portfolio/fonts/glyphicons-halflings-regular.eot (from localhost/mnazportfolio/wp-content/themes/portfolio/css/bootstrap.min.css)
+
+11:23:25	Error: 	"Not Found" (404) at link localhost/mnazportfolio/wp-content/themes/portfolio/fonts/glyphicons-halflings-regular.eot? (from localhost/mnazportfolio/wp-content/themes/portfolio/css/bootstrap.min.css)
+
+11:23:25	Error: 	"Not Found" (404) at link localhost/mnazportfolio/wp-content/themes/portfolio/fonts/glyphicons-halflings-regular.woff2 (from localhost/mnazportfolio/wp-content/themes/portfolio/css/bootstrap.min.css)
+
+11:23:25	Error: 	"Not Found" (404) at link localhost/mnazportfolio/wp-content/themes/portfolio/fonts/glyphicons-halflings-regular.woff (from localhost/mnazportfolio/wp-content/themes/portfolio/css/bootstrap.min.css)
+
+11:23:25	Error: 	"Not Found" (404) at link localhost/mnazportfolio/wp-content/themes/portfolio/fonts/glyphicons-halflings-regular.ttf (from localhost/mnazportfolio/wp-content/themes/portfolio/css/bootstrap.min.css)
+
+11:23:25	Error: 	"Not Found" (404) at link localhost/mnazportfolio/wp-content/themes/portfolio/fonts/glyphicons-halflings-regular.svg (from localhost/mnazportfolio/wp-content/themes/portfolio/css/bootstrap.min.css)
+
+11:23:48	Error: 	"Not Found" (404) at link localhost/mnazportfolio/portfolio/twitter.com (from localhost/mnazportfolio/portfolio/)
+
+11:23:48	Error: 	"Not Found" (404) at link localhost/mnazportfolio/about/contact (from localhost/mnazportfolio/about/)
+
+11:23:48	Error: 	"Not Found" (404) at link localhost/mnazportfolio/about/twitter.com (from localhost/mnazportfolio/about/)
+
+11:23:51	Error: 	"Not Found" (404) at link localhost/mnazportfolio/portfolio/mohcine-nazrhan-blog-responsive-website/twitter.com (from localhost/mnazportfolio/portfolio/mohcine-nazrhan-blog-responsive-website/)
+
+11:23:51	Error: 	"Not Found" (404) at link localhost/mnazportfolio/portfolio/mohcine-nazrhan-portfolio-responsive-website/twitter.com (from localhost/mnazportfolio/portfolio/mohcine-nazrhan-portfolio-responsive-website/)
+
+11:23:51	Error: 	"Not Found" (404) at link localhost/mnazportfolio/portfolio/branding-design-for-my-watchs-facebook-page/twitter.com (from localhost/mnazportfolio/portfolio/branding-design-for-my-watchs-facebook-page/)
+
+11:23:51	Error: 	"Not Found" (404) at link localhost/mnazportfolio/portfolio/logo-for-play-again-youtube-channel/twitter.com (from localhost/mnazportfolio/portfolio/logo-for-play-again-youtube-channel/)
+
+11:23:51	Error: 	"Not Found" (404) at link localhost/mnazportfolio/portfolio/branding-design-for-premium-store-facebook-page/twitter.com (from localhost/mnazportfolio/portfolio/branding-design-for-premium-store-facebook-page/)
+
+11:23:51	Error: 	"Not Found" (404) at link localhost/mnazportfolio/portfolio/logo-design-for-spanish-clothing-brand/twitter.com (from localhost/mnazportfolio/portfolio/logo-design-for-spanish-clothing-brand/)
+
+11:23:51	Error: 	"Not Found" (404) at link localhost/mnazportfolio/wp-content/themes/portfolio/images/color-stripe.png (from localhost/mnazportfolio/wp-content/themes/portfolio/css/styles.css)
+
+11:23:57	Error: 	"Not Found" (404) at link localhost/mnazportfolio/portfolio/category/design/contact (from localhost/mnazportfolio/portfolio/category/design/)
+
+11:23:58	Error: 	"Not Found" (404) at link localhost/mnazportfolio/portfolio/category/design/twitter.com (from localhost/mnazportfolio/portfolio/category/design/)
+
+11:23:58	Error: 	"Not Found" (404) at link localhost/mnazportfolio/portfolio/category/websites/contact (from localhost/mnazportfolio/portfolio/category/websites/)
+
+11:24:05	Error: 	"Not Found" (404) at link localhost/mnazportfolio/portfolio/category/websites/twitter.com (from localhost/mnazportfolio/portfolio/category/websites/)
+
+11:24:05	Error: 	"Not Found" (404) at link localhost/mnazportfolio/portfolio/category/apps/contact (from localhost/mnazportfolio/portfolio/category/apps/)
+
+11:24:40	Error: 	"Not Found" (404) at link localhost/mnazportfolio/portfolio/category/apps/twitter.com (from localhost/mnazportfolio/portfolio/category/apps/)
+
+11:24:40	Error: 	"Not Found" (404) at link localhost/mnazportfolio/portfolio/page/2/contact (from localhost/mnazportfolio/portfolio/page/2/)
+
+11:24:40	Error: 	"Not Found" (404) at link localhost/mnazportfolio/portfolio/page/2/twitter.com (from localhost/mnazportfolio/portfolio/page/2/)
+
+11:24:40	Error: 	"Not Found" (404) at link localhost/mnazportfolio/portfolio/logo-design-for-american-web-site/twitter.com (from localhost/mnazportfolio/portfolio/logo-design-for-american-web-site/)
+
+11:24:40	Error: 	"Not Found" (404) at link localhost/mnazportfolio/portfolio/category/design/page/2/contact (from localhost/mnazportfolio/portfolio/category/design/page/2/)
+
+11:24:40	Error: 	"Not Found" (404) at link localhost/mnazportfolio/portfolio/category/design/page/2/twitter.com (from localhost/mnazportfolio/portfolio/category/design/page/2/)
+
+11:24:45	Error: 	"Not Found" (404) at link localhost/mnazportfolio/portfolio/website-redesign-for-the-association-lmpe-marrakech/twitter.com (from localhost/mnazportfolio/portfolio/website-redesign-for-the-association-lmpe-marrakech/)
+
+11:25:06	Error: 	"Not Found" (404) at link localhost/mnazportfolio/portfolio/character-sheets-for-mobile-game-1/twitter.com (from localhost/mnazportfolio/portfolio/character-sheets-for-mobile-game-1/)
+
+
+
+HTTrack Website Copier/3.48-22 mirror complete in 5 minutes 17 seconds : 135 links scanned, 104 files written (7839557 bytes overall) [8111221 bytes received at 25587 bytes/sec], 3.5 requests per connection
+
+(30 errors, 0 warnings, 0 messages)
+
